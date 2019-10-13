@@ -1,6 +1,6 @@
-# GMailinator
+# This repository is deprecated. Please use [this fork.](https://github.com/wwwjfy/GMailinator)
 
-This repository is deprecated. [Here is a more updated fork.](https://github.com/wwwjfy/GMailinator)
+# GMailinator
 
 Adds Gmail-esque keyboard shorcuts to Mail.app.  This is still very much a work
 in progress.  Tested with Mail for OS X Sierra.
